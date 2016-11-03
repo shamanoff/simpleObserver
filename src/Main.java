@@ -12,5 +12,16 @@ public class Main {
 
         button.click();
 
+
+//Lambda
+
+    /*    Collection.sort(names,(String a, String b)->{
+            return b.compareTo(a);
+        });
+
+        sort(names,(String a, String b)->b.compareTo(a));
+
+        */
+
     }
 }
